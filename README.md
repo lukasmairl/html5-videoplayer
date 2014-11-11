@@ -8,7 +8,6 @@ Basic Implementation of a custom HTML5 Video Player
 HTML STRUCTURE
 
 ```html
-<pre>
 <div class="video">
   <video data-videoid="">
     <source src="" type="video/mp4">
@@ -29,4 +28,3 @@ HTML STRUCTURE
       <button type="button" class="fullscreen">Full-Screen</button>
     </div>
 </div>
-</pre>
